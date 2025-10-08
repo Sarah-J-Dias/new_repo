@@ -1,0 +1,46 @@
+﻿Taskbusters Stakeholder Register:
+
+
+Stakeholders
+	Name
+	Organization
+	Interest
+	Influence
+	Expectations
+	Engagement Strategy
+	Notes
+	Scott Patton
+	TractorCo
+	Booth that improves throughput and regulatory compliance
+	Final Decision maker
+	Booth should improve throughput and regulatory compliance. 
+	Engage Closely
+	Hate Delays, Risk Averse
+	Ethan Beets
+	TractorCo
+	Booth Installation
+	Operational Advisor
+	Working booth
+	Keep Informed
+	Occupied with day-to-day plant management
+	Sabrina Cash
+	TractorCo
+	Budget Management
+	Critical in approving costs and preventing scope creep
+	Cheap booth
+	Keep Satisfied
+	Less involved in day-to-day project activities.
+	John Storm
+	LA Fire Dept. 
+	Fire Safety Standards
+	Critical in fire inspection
+	Inflammable booth
+	Keep Satisfied
+	Low ongoing interest is not important until inspection
+	Wendy Gale
+	 SCAQMD 
+	VOC and emission
+	Critical in env. inspection
+	Full adherence to environmental standards
+	Keep Satisfied
+	Not important until inspection
